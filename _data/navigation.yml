@@ -2,6 +2,12 @@
 
 - title: About
   url: /about/
+  
+- title: Services
+  url: /services/
+
+- title: Training
+  url: /training/
 
 - title: Resources
   url: /resources/
