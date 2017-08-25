@@ -5,7 +5,7 @@ locale: en_US
 description: Updates from the Bioinformatics Core at The University of Sheffield.
 logo: site-logo.png
 search: true
-url: https://sheffield-bioinformatics-core.github.io/
+url: https://markdunning.github.io/sheffield-bioinformatics-core.github.io/
 
 # Jekyll configuration
 
@@ -32,7 +32,7 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-repository: sheffield-bioinformatics-core/sheffield-bioinformatics-core.github.io
+repository: markdunning/sheffield-bioinformatics-core.github.io
 
 # Site owner
 owner:
